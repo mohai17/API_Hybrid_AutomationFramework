@@ -1,4 +1,4 @@
-package api.payload;
+package api_payload;
 
 public class UserPayloads {
 
